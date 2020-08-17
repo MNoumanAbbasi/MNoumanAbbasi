@@ -1,7 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a Computer Science Senior at LUMS.
+
+Passionate about Machine Learning and Data Science. Also interested in Open Source and research regarding ML and DL.
+
+👨🏻‍💻 Technologies:
+- ReactJS
+- Vue.js
+
+💻 Programming Languages:
+- C++
+- Python
+- JavaScript
+- Golang
+
+⚡ When I am not in front of my laptop programming, I enjoy painting 🎨 and playing table tennis 🏓.
+
+### Get in touch!
+
+📧 Email: [thenoumanabbasi@gmail.com](mailto:thenoumanabbasi@gmail.com)  
+👨🏻‍💼 LinkedIn: [MNoumanAbbasi](https://www.linkedin.com/in/mnoumanabbasi/)
+
 
 <!--
-**MNoumanAbbasi/MNoumanAbbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

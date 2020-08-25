@@ -23,7 +23,6 @@ I'm a Computer Science Senior at LUMS.
 📧 Email: [thenoumanabbasi@gmail.com](mailto:thenoumanabbasi@gmail.com)  
 👨🏻‍💼 LinkedIn: [MNoumanAbbasi](https://www.linkedin.com/in/mnoumanabbasi/)
 
-
 <!--
 
 Here are some ideas to get you started:

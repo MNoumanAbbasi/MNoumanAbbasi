@@ -2,17 +2,19 @@
 
 I'm a Computer Science Senior at LUMS.
 
-Passionate about Machine Learning and Data Science. Also interested in Open Source and research regarding ML and DL.
+💻 Passionate about Machine Learning and Data Science. Also interested in Open Source and research regarding ML and DL.
 
 👨🏻‍💻 Technologies:
-- ReactJS
-- Vue.js
-
-💻 Programming Languages:
 - C++
 - Python
 - JavaScript
 - Golang
+- ReactJS
+- Vue.js
+- Git
+- GitHub
+- Linux
+- Machine Learning
 
 ⚡ When I am not in front of my laptop programming, I enjoy painting 🎨 and playing table tennis 🏓.
 

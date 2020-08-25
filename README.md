@@ -8,7 +8,7 @@ I'm a Computer Science Senior at LUMS.
 
 👨🏻‍💻 Technologies:
 
-<img src="/assets/techs.png" alt="Technologies" width="400">
+<img src="https://raw.githubusercontent.com/MNoumanAbbasi/MNoumanAbbasi/master/assets/techs.png" alt="Technologies" width="400">
 
 ⚡ When I am not in front of my laptop programming, I enjoy painting 🎨 and playing table tennis 🏓.
 

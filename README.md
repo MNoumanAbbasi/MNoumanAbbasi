@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-I'm a Computer Science Senior at LUMS.
+I'm a Computer Science Senior at LUMS, Lahore.
 
 💻 Passionate about Machine Learning and Data Science. Also interested in Open Source and research regarding ML and DL.
 
-<hr />
+🔭 I’m currently working on [Madadgaar.com.pk](https://www.madadgaar.com.pk/).
 
-👨🏻‍💻 Technologies:
+
+### 👨🏻‍💻 Technologies:
 
 <img src="https://raw.githubusercontent.com/MNoumanAbbasi/MNoumanAbbasi/master/assets/techs.png" alt="Technologies" width="400">
 

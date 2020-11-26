@@ -4,7 +4,7 @@ I'm a Computer Science Senior at LUMS, Lahore.
 
 💻 Passionate about Machine Learning and Data Science. Also interested in Open Source and research regarding ML and DL.
 
-🔭 I’m currently working on [Madadgaar.com.pk](https://www.madadgaar.com.pk/).
+🔭 I’m currently working on Ratefessor, a website for university students to rate/review professors. I'm using Django and SQLite and it is part of my Database course project.
 
 
 ### 👨🏻‍💻 Technologies:

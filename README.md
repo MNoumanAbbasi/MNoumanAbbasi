@@ -2,7 +2,9 @@
 
 I'm a Computer Science Senior at LUMS, Lahore.
 
-💻 Passionate about Machine Learning and Data Science. Also interested in Open Source and research regarding ML and DL.
+💻 Passionate about Machine Learning and Security and Privacy. Also interested in Open Source work.
+
+🔬 My research interests include Security and Privacy, Internet Measurements and Machine Learning.
 
 🔭 I’m currently working on Ratefessor, a website for university students to rate/review professors. I'm using Django and SQLite and it is part of my Database course project.
 

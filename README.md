@@ -6,7 +6,7 @@ I'm a Computer Science Senior at LUMS, Lahore.
 
 🔬 My research interests include Security and Privacy, Internet Measurements and Machine Learning.
 
-🔭 I’m currently working on Ratefessor, a website for university students to rate/review professors. I'm using Django and SQLite and it is part of my Database course project.
+🔭 I’m currently working on Khanai, an audio storytelling web app to teach school children urdu, using Django REST + Reactjs.
 
 
 ### 👨🏻‍💻 Technologies:

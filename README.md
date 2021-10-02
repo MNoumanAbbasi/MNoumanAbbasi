@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a Computer Science Senior at LUMS, Lahore.
+I'm a Masters Computer Science student at Purdue University, West Lafayette.
 <!-- 
 💻 Passionate about Machine Learning and Security and Privacy. Also interested in Open Source work.
 
 🔬 My research interests include Security and Privacy, Internet Measurements and Machine Learning. -->
-
-🔭 I’m currently working on Kahaani, an audio storytelling web app to teach school children urdu, using Django REST + Reactjs.
+<!-- 
+🔭 I’m currently working on Kahaani, an audio storytelling web app to teach school children urdu, using Django REST + Reactjs. -->
 
 
 ### 👨🏻‍💻 Technologies:

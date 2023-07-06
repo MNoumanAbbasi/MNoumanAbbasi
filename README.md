@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Masters Computer Science student at Purdue University, West Lafayette.
+
 <!-- 
 💻 Passionate about Machine Learning and Security and Privacy. Also interested in Open Source work.
 

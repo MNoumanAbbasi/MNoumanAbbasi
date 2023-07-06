@@ -16,8 +16,7 @@
 ⚡ When I am not in front of my laptop programming, I enjoy painting 🎨 and playing table tennis 🏓.
 
 ### Get in touch!
-
-📧 Email: [thenoumanabbasi@gmail.com](mailto:thenoumanabbasi@gmail.com)  
+ 
 👨🏻‍💼 LinkedIn: [MNoumanAbbasi](https://www.linkedin.com/in/mnoumanabbasi/)
 
 <!--
